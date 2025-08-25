@@ -1,3 +1,0 @@
-files:
-  - source: ns_event_manager/Resources/Private/Language/*.xlf
-    translation: ns_event_manager/Resources/Private/Language/%original_file_name%
